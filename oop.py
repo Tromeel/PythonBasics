@@ -15,6 +15,7 @@ student1  = Student("James","male",20)
 print(student1.name,student1.gender,student1.age)
 print()
 
+
 student2  = Student("Emma","female",22)
 print(student2.name,student2.gender,student2.age)
 print()

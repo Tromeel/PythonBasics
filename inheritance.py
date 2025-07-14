@@ -15,8 +15,8 @@ class Dog(Animal):
         print("Dog is fetching a ball")
 
 a =Animal()
+a.speak()
 
 
 
 d = Dog()
-
